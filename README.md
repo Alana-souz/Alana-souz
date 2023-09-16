@@ -21,8 +21,13 @@ Buscando semear a cultura e práticas que aumentam a qualidade.
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
+
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alana-souz&theme=transparent&bg_color=000&border_color=E94D5F&show_icons=true&icon_color=E94D5F&title_color=E94D5F&text_color=FFF)
+<div>
+<a href="https://github.com/alana-souz">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanasouza&layout=compact&langs_count=7&theme=theme=transparent&bg_color=000&border_color=E94D5F&show_icons=true&icon_color=E94D5F&title_color=E94D5F&text_color=FFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alana-souz&theme=transparent&bg_color=000&border_color=E94D5F&show_icons=true&icon_color=E94D5F&title_color=E94D5F&text_color=FFF"/>
+</div>
 
 
 
