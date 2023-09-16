@@ -1,7 +1,9 @@
 
 
 # Olá Bem vindo(a)! Sou Alana Reis 👋
- 🔭 Analista de testes e Qualidade de Software; Com experiência na atuação em todas as fases do desenvolvimento de software junto ao time ágil, contribuindo na rotina do squad no planejamento, estimativas, análise de riscos, Validações Manuais e automatizadas, priorização de bugs.
+
+🔭 Analista de testes e Qualidade de Software;
+Com experiência na atuação em todas as fases do desenvolvimento de software, contribuindo na rotina do squad no planejamento, estimativas, análise de riscos, Validações Manuais e automatizadas, priorização de bugs.
 Buscando semear a cultura e práticas que aumentam a qualidade. 
 
 🌱 Cursando a segunda Graduação em análise e Desenvolvimento em Sistema 
