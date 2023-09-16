@@ -8,7 +8,7 @@ Buscando semear a cultura e práticas que aumentam a qualidade.
 
 
 ### Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=E94D5F&color:FFF)](https://www.https://www.linkedin.com/in/alanareis10/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=E94D5F&color:FFF)](https://www.linkedin.com/in/alanareis10/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F&color:FFF)](mailto:alanareis10@gmail.com)
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/alanareis10/)
 
