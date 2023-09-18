@@ -53,7 +53,7 @@ Buscando semear a cultura e práticas que aumentam a qualidade.
 <img width="12" />
 
 <div>
-<h3 align="left">Ferramentas de Testes: </h3>
+<h3 align="left">Ferramentas de Testes e Nuvem : </h3>
 <img src="https://w7.pngwing.com/pngs/372/674/png-transparent-appium-test-automation-software-testing-selenium-calabash-purple-violet-text-thumbnail.png" height="40" alt="appium"/>
 <img width="12" />  
 <img src="https://robotframework.org/img/RF.svg" height="40" alt="robotframework" />
@@ -64,8 +64,11 @@ Buscando semear a cultura e práticas que aumentam a qualidade.
 <img width="12"/> 
 <img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" height="40" alt="cypress"/>
 <img width="12"/>  
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </div>
   <br>
+  
 
 
 
