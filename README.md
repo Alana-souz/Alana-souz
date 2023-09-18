@@ -4,7 +4,7 @@
 
 - 🔭Analista de testes e Qualidade de Software;
 - 🌱 Cursando a segunda Graduação em Análise e Desenvolvimento de Sistemas e estudando Automação de testes...
-- 👩‍💻 Estou alocada no projeto Minha Claro Residencial, responsável pelo aplicativo MOBILE, Testes funcionais front end(iOS e Android), back end e automação, Validações Manuais e automatizadas, Acompanhar bugs, desde da sua coleta da evidencia ate subida da correção, Responsável pelo gerenciamento de bugs e atividades de teste utilizando JIRA, Escrita de cenários de testes utilizando a sintaxe Gherkin.
+- 👩‍💻 Atualmente Estou no projeto MOBILE de telecomunicação responsável pelo aplicativo MOBILE, Testes funcionais front end(iOS e Android), back end e automação, Validações Manuais e automatizadas, Acompanhar bugs, desde da sua coleta da evidencia ate subida da correção, Responsável pelo gerenciamento de bugs e atividades de teste utilizando JIRA, Escrita de cenários de testes utilizando a sintaxe Gherkin.
 
 - 🔎 Buscando semear a cultura e práticas que aumentam a qualidade. 
 
