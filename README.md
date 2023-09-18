@@ -2,11 +2,11 @@
 
 # Olá Bem vindo(a)! Sou Alana Reis 👋
 
-🔭 Analista de testes e Qualidade de Software;
-Com experiência na atuação em todas as fases do desenvolvimento de software, contribuindo na rotina do squad no planejamento, estimativas, análise de riscos, Validações Manuais e automatizadas, priorização de bugs.
-Buscando semear a cultura e práticas que aumentam a qualidade. 
+- 🔭Analista de testes e Qualidade de Software;
+- 🌱 Cursando a segunda Graduação em Análise e Desenvolvimento de Sistemas e estudando Automação de testes...
+- 👩‍💻 Estou alocada no projeto Minha Claro Residencial, responsável pelo aplicativo MOBILE, Testes funcionais front end(iOS e Android), back end e automação, Validações Manuais e automatizadas, Acompanhar bugs, desde da sua coleta da evidencia ate subida da correção, Responsável pelo gerenciamento de bugs e atividades de teste utilizando JIRA, Escrita de cenários de testes utilizando a sintaxe Gherkin.
 
-🌱 Cursando a segunda Graduação em análise e Desenvolvimento em Sistema 
+- 🔎 Buscando semear a cultura e práticas que aumentam a qualidade. 
 
 
 ### Conecte-se comigo
@@ -67,10 +67,14 @@ Buscando semear a cultura e práticas que aumentam a qualidade.
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </div>
-  <br>
+<br>
   
 
-
+</div>
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{alana-souz}/count.svg" /></p> 
+<br></div>
 
 
 
