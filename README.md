@@ -1,12 +1,24 @@
 
 
-# Olá Bem vindo(a)! Sou Alana Reis 👋
+# Olá, seja bem-vindo(a)! Eu sou Alana Reis 👋
 
-- 🔭Analista de testes e Qualidade de Software;
-- 🌱 Cursando a segunda Graduação em Análise e Desenvolvimento de Sistemas e estudando Automação de testes...
-- 👩‍💻 Atualmente Estou no projeto MOBILE de telecomunicação responsável pelo aplicativo MOBILE, Testes funcionais front end(iOS e Android), back end e automação, Validações Manuais e automatizadas, Acompanhar bugs, desde da sua coleta da evidencia ate subida da correção, Responsável pelo gerenciamento de bugs e atividades de teste utilizando JIRA, Escrita de cenários de testes utilizando a sintaxe Gherkin.
+🔭 **Analista de Testes e Qualidade de Software**
 
-- 🔎 Buscando semear a cultura e práticas que aumentam a qualidade. 
+## Sobre Mim
+- 👩‍💻 Trabalhando como Analista de Testes e Qualidade de Software.
+- 📱 Atualmente envolvida no projeto MOBILE de telecomunicação, onde sou responsável pelo aplicativo MOBILE.
+- 🧪 Atuo em Testes Funcionais Front-end (iOS e Android), Back-end, Api e Automação.
+- ✏️  Gerenciamento de bugs e atividades de teste usando JIRA, levantamento de requisitos, criação de cenários de teste e escrita utilizando a sintaxe Gherkin.
+- 📄 Geração de documentação de evidências, minha expertise se estende a testes Web, Mobile e API, bem como automação mobile utilizando o Robot Framework e Appium.
+
+
+## Atualmente
+- 📚 Cursando a segunda graduação em Análise e Desenvolvimento de Sistemas.
+- 🤖 Estudando e aprimorando minhas habilidades em Automação de Testes.
+
+## Objetivos
+- 🔎 Buscando semear a cultura e práticas que aumentem a qualidade em projetos de software.
+
 
 
 ### Conecte-se comigo
