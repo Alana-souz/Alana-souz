@@ -1,23 +1,24 @@
-
-
-# Olá, seja bem-vindo(a)! Eu sou Alana Reis 👋
-
-🔭 **Analista de Testes e Qualidade de Software**
+# Olá, eu sou Alana Reis de Souza  - Analista de Testes e Qualidade de Software 👋
 
 ## Sobre Mim
-- 👩‍💻 Trabalhando como Analista de Testes e Qualidade de Software.
-- 📱 Atualmente envolvida no projeto MOBILE de telecomunicação, onde sou responsável pelo aplicativo MOBILE.
-- 🧪 Atuo em Testes Funcionais Front-end (iOS e Android), Back-end, Api e Automação.
-- ✏️  Gerenciamento de bugs e atividades de teste usando JIRA, levantamento de requisitos, criação de cenários de teste e escrita utilizando a sintaxe Gherkin.
-- 📄 Geração de documentação de evidências, minha expertise se estende a testes Web, Mobile e API, bem como automação mobile utilizando o Robot Framework e Appium.
+- 💼 Atualmente, sou Analista de Testes e Qualidade de Software, apaixonada por garantir que cada produto atenda aos mais altos padrões de qualidade.
+- 🎓 Cursando a segunda graduação em Análise e Desenvolvimento de Sistemas, com enfoque em Automação de Testes, para manter-me atualizada com as melhores práticas.
+- 🌐 Tenho experiência em Testes Funcionais Front-end (iOS e Android), Back-end e Automação.
 
+## O Que Eu Faço
+- ✅ Responsável por testes funcionais front-end (iOS e Android) e back-end.
+- 🛠️ Automação de testes para garantir uma entrega rápida e confiável.
+- 🐛 Identificação, rastreamento e gestão eficiente de bugs usando JIRA.
+- 📝 Criação de cenários de testes utilizando a sintaxe Gherkin.
 
-## Atualmente
-- 📚 Cursando a segunda graduação em Análise e Desenvolvimento de Sistemas.
-- 🤖 Estudando e aprimorando minhas habilidades em Automação de Testes.
+## Habilidades
+- ✔️ Testes Funcionais
+- ✔️ Automação de Testes Robot framework, Appium e cypress.
+- ✔️ JIRA para Gestão de Projetos e Bugs
+- ✔️ Linguagens de Programação: [Suas Linguagens Principais]
 
 ## Objetivos
-- 🔎 Buscando semear a cultura e práticas que aumentem a qualidade em projetos de software.
+- 🌱 Contribuir para uma cultura de qualidade e práticas eficientes em cada etapa do desenvolvimento de software.
 
 
 
