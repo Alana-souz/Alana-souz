@@ -6,16 +6,16 @@
 - 🌐 Tenho experiência em Testes Funcionais Front-end (iOS e Android), Back-end e Automação.
 
 ## O Que Eu Faço
-- ✅ Responsável por testes funcionais front-end (iOS e Android) e back-end.
+- ✅ Responsável por testes funcionais front-end (iOS e Android) e Api, back-end.
 - 🛠️ Automação de testes para garantir uma entrega rápida e confiável.
 - 🐛 Identificação, rastreamento e gestão eficiente de bugs usando JIRA.
 - 📝 Criação de cenários de testes utilizando a sintaxe Gherkin.
 
 ## Habilidades
-- ✔️ Testes Funcionais
-- ✔️ Automação de Testes Robot framework, Appium e cypress.
+- ✔️ Testes Mobile, Testes Funcionais, Teste 2to2...
+- ✔️ Automação de Testes Robot framework, Appium e cypress...
 - ✔️ JIRA para Gestão de Projetos e Bugs
-- ✔️ Linguagens de Programação: [Suas Linguagens Principais]
+
 
 ## Objetivos
 - 🌱 Contribuir para uma cultura de qualidade e práticas eficientes em cada etapa do desenvolvimento de software.
