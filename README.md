@@ -1,8 +1,8 @@
-# Olá, eu sou Alana Reis de Souza  - Analista de Testes e Qualidade de Software 👋
+# Olá, eu sou Alana Reis de Souza  - Analista de Testes e Qualidade de Software| QA Engineer 👋
 
 ## Sobre Mim
 - 💼 Atualmente, sou Analista de Testes e Qualidade de Software, apaixonada por garantir que cada produto atenda aos mais altos padrões de qualidade.
-- 🎓 Cursando a segunda graduação em Análise e Desenvolvimento de Sistemas, com enfoque em Automação de Testes, para manter-me atualizada com as melhores práticas.
+- 🎓 Formada o em Análise e Desenvolvimento de Sistemas, com enfoque em Automação de Testes, para manter-me atualizada com as melhores práticas.
 - 🌐 Tenho experiência em Testes Funcionais Front-end (iOS e Android), Back-end e Automação.
 
 ## O Que Eu Faço
@@ -12,7 +12,7 @@
 - 📝 Criação de cenários de testes utilizando a sintaxe Gherkin.
 
 ## Habilidades
-- ✔️ Testes Mobile, Testes Funcionais, Teste 2to2...
+- ✔️ Testes Mobile,Testes Web, Teste de API, Testes Funcionais, Teste 2to2...
 - ✔️ Automação de Testes Robot framework, Appium e cypress...
 - ✔️ JIRA para Gestão de Projetos e Bugs
 
