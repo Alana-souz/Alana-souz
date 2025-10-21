@@ -54,9 +54,10 @@ Git/GitLab • Feature Toggle (Firebase) • Device Farm
 
 ### 🚀 Projetos em Destaque
 
-📁 [Testes Automatizados com Robot Framework e Appium](https://github.com/Alana-souz)  
-📁 [Coleções de Teste de API com Postman](https://github.com/Alana-souz)  
-📁 [Cenários de Teste BDD (Gherkin)](https://github.com/Alana-souz)  
+📁 [Testes Automatizados com Robot Framework e Appium](https://github.com/Alana-souz)
+📁 [Testes de performance automatizado utilizando **k6** e escritos em **JavaScript*](https://github.com/Alana-souz/banco-api-perfomance)
+📁 [Testes automatizados na API REST](https://github.com/Alana-souz/banco-api-tests)  
+📁 [Testes automatizados desenvolvidos com Cypress e JavaScript, como prática](https://github.com/Alana-souz/banco-web-tests)  
 
 > 💬 *Cada projeto reflete minha jornada em QA: explorando estratégias de automação, boas práticas de teste e foco constante na qualidade.*
 
