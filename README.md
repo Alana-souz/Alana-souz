@@ -1,93 +1,84 @@
-# Olá, eu sou Alana Reis de Souza  - Analista de Testes e Qualidade de Software| QA Engineer 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:BB86FC&height=200&section=header&text=Alana%20Souza%20💻&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-## Sobre Mim
-- 💼 Atualmente, sou Analista de Testes e Qualidade de Software, apaixonada por garantir que cada produto atenda aos mais altos padrões de qualidade.
-- 🎓 Formada o em Análise e Desenvolvimento de Sistemas, com enfoque em Automação de Testes, para manter-me atualizada com as melhores práticas.
-- 🌐 Tenho experiência em Testes Funcionais Front-end (iOS e Android), Back-end e Automação.
+<h2 align="center">✨ Analista de Testes e Qualidade de Software | Web, Mobile e API ✨</h2>
 
-## O Que Eu Faço
-- ✅ Responsável por testes funcionais front-end (iOS e Android) e Api, back-end.
-- 🛠️ Automação de testes para garantir uma entrega rápida e confiável.
-- 🐛 Identificação, rastreamento e gestão eficiente de bugs usando JIRA.
-- 📝 Criação de cenários de testes utilizando a sintaxe Gherkin.
+<p align="center">
+  <a href="mailto:alanareis10@gmail.com"><img src="https://img.shields.io/badge/-alanareis10@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/alanareis10/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white"></a>
+  <a href="https://github.com/Alana-souz"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"></a>
+</p>
 
-## Habilidades
-- ✔️ Testes Mobile,Testes Web, Teste de API, Testes Funcionais, Teste 2to2...
-- ✔️ Automação de Testes Robot framework, Appium e cypress...
-- ✔️ JIRA para Gestão de Projetos e Bugs
+---
 
+### 💜 Sobre mim
 
-## Objetivos
-- 🌱 Contribuir para uma cultura de qualidade e práticas eficientes em cada etapa do desenvolvimento de software.
+Sou Analista de Testes e Qualidade de Software (QA) com 4 anos de experiência, especializada em testes manuais, automatizados e de API, garantindo entregas seguras e funcionais em plataformas Web e Mobile.
 
+Atuo em todas as etapas do ciclo de desenvolvimento, com foco em qualidade, usabilidade e melhoria contínua.  
+💬 Sou movida por desafios, aprendizado constante e paixão por transformar códigos em experiências confiáveis.
 
+---
+### ⚙️ Ferramentas e Tecnologias
 
-### Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=E94D5F&color:FFF)](https://www.linkedin.com/in/alanareis10/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F&color:FFF)](mailto:alanareis10@gmail.com)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/alanareis10/)
+📌 **Automação e Testes:**  
+Robot Framework • Appium • Postman • JMeter  
 
-### Habilidades
-![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=E94D5F)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+📌 **Mobile e Web Testing:**  
+BrowserStack • Android Studio • Xcode • VSCode  
 
-### GitHub Stats
-<div>
-<a href="https://github.com/alana-souz">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanasouza&layout=compact&langs_count=7&theme=theme=transparent&bg_color=000&border_color=E94D5F&show_icons=true&icon_color=E94D5F&title_color=E94D5F&text_color=FFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alana-souz&theme=transparent&bg_color=000&border_color=E94D5F&show_icons=true&icon_color=E94D5F&title_color=E94D5F&text_color=FFF"/>
-</div>
+📌 **Gerenciamento e QA:**  
+Jira • Xray • Git • GitLab • Firebase • Confluence  
 
-<div style="display: inline_block"><br>
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<br>
-<div align="left" />
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql"  />
-<img width="12" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"  height="40" alt="nodejs" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-<img width="12" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python"  />
-<img width="12" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab"  />
-<img width="12" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio" />
-<img width="12" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" height="40" alt="xcode" />
-<img width="12" />
+📌 **Versionamento e Ambientes:**  
+Git/GitLab • Feature Toggle (Firebase) • Device Farm  
 
-<div>
-<h3 align="left">Ferramentas de Testes e Nuvem : </h3>
-<img src="https://w7.pngwing.com/pngs/372/674/png-transparent-appium-test-automation-software-testing-selenium-calabash-purple-violet-text-thumbnail.png" height="40" alt="appium"/>
-<img width="12" />  
-<img src="https://robotframework.org/img/RF.svg" height="40" alt="robotframework" />
-<img width="12" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" height="40" alt="cucumber"/>
-<img width="12" />
-<img src="https://www.svgrepo.com/download/354202/postman-icon.svg" height="40" alt="postman"/>
-<img width="12"/> 
-<img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" height="40" alt="cypress"/>
-<img width="12"/>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-</div>
-<br>
-  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,robotframework,postman,appium,androidstudio,git,github,vscode,jira,firebase,mysql,html,css" />
+</p>
 
-</div>
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{alana-souz}/count.svg" /></p> 
-<br></div>
+---
 
+### 📜 Certificações
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Scrum%20Foundation-Certified-FF69B4?style=for-the-badge&logo=scrumalliance" />
+  <img src="https://img.shields.io/badge/Fundamentos%20de%20Teste%20de%20Software-ASTFC-9370DB?style=for-the-badge&logo=testing-library" />
+  <img src="https://img.shields.io/badge/CTFL-Preparação%20ISTQB-blueviolet?style=for-the-badge&logo=bookstack" />
+  <img src="https://img.shields.io/badge/Postman-Automação%20de%20API-orange?style=for-the-badge&logo=postman" />
+</p>
 
+---
+
+### 🚀 Projetos em Destaque
+
+📁 [Testes Automatizados com Robot Framework e Appium](https://github.com/Alana-souz)  
+📁 [Coleções de Teste de API com Postman](https://github.com/Alana-souz)  
+📁 [Cenários de Teste BDD (Gherkin)](https://github.com/Alana-souz)  
+
+> 💬 *Cada projeto reflete minha jornada em QA: explorando estratégias de automação, boas práticas de teste e foco constante na qualidade.*
+
+---
+
+### 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alana-souz&show_icons=true&theme=midnight-purple&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alana-souz&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true" height="180em" />
+</p>
+
+---
+
+### 🌐 Vamos nos conectar?
+
+📩 **E-mail:** [alanareis10@gmail.com](mailto:alanareis10@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/alanareis10](https://www.linkedin.com/in/alanareis10/)  
+💻 **GitHub:** [github.com/Alana-souz](https://github.com/Alana-souz)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BB86FC,100:7B2FF7&height=120&section=footer"/>
+</p>
